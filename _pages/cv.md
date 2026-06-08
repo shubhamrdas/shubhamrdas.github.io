@@ -36,7 +36,4 @@ Academic Services and Outreach
 * IMSc Open Day, designed and demonstrated physics experiments for high school students at IMSc Open Day 2024.
   * Dynamic total internal reflection
   * Magnetic levitation prototype
-  # <ul>{% for post in site.teaching reversed %}
-  #  {% include archive-single-cv.html %}
- # {% endfor %}</ul>
   
